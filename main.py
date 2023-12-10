@@ -24,6 +24,6 @@ async def start_cmd(client, message):
     
 
                        
- print("Bot was started")
+  print("Bot was started")
 
- TeluguZone.run()
+  TeluguZone.run()
