@@ -10,10 +10,9 @@
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN
-)
+  )
 
-
-@TeluguZone.on_message(filters.command("start"))
+ @TeluguZone.on_message(filters.command("start"))
 async def start_cmd(client, message):
     await message.reply_text("Hᴇʟʟᴏ {}, ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot")
 
