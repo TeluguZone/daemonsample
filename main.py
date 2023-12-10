@@ -19,7 +19,7 @@
 
 @TeluguZone.on_message(filters.command("help"))
 async def start_cmd(client, message):
-     await message.reply_text("conatact my father @daemon990 with feel free")
+   await message.reply_text("conatact my father @daemon990 with feel free")
     
     
 
