@@ -1,9 +1,9 @@
   from program  import client,filters
 
 
-API_ID = "24830912"
-API_HASH = "a1a1775593531b90850b8b82e3b14940"
-BOT_TOKEN = "6764321113:AAGJrZkn4r0Ll9dYaxbpkLgEOvIs9fG1UXs"
+  API_ID = "24830912"
+  API_HASH = "a1a1775593531b90850b8b82e3b14940"
+  BOT_TOKEN = "6764321113:AAGJrZkn4r0Ll9dYaxbpkLgEOvIs9fG1UXs"
 
 TeluguZone = Client(
     name = "Daemon",
