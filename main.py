@@ -5,7 +5,7 @@
   API_HASH = "a1a1775593531b90850b8b82e3b14940"
   BOT_TOKEN =    "6764321113:AAGJrZkn4r0Ll9dYaxbpkLgEOvIs9fG1UXs"
 
-TeluguZone = Client(
+  TeluguZone = Client(
     name = "Daemon",
     api_id=API_ID,
     api_hash=API_HASH,
